@@ -12,3 +12,4 @@ torch
 torchvision
 pymongo==3.9.0
 gtfs_functions
+requests
